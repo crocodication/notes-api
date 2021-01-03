@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" height="18.5"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=crocodication.notes-api-live" width="82" height="20"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=crocodication.notes-api" width="82" height="20"/>
 </p>
 
 # Notes API
